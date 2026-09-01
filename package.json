@@ -1,6 +1,7 @@
 {
   "name": "starter-next-supabase",
   "version": "0.1.2",
+  "engines": { "node": ">=20" },
   "private": true,
   "scripts": {
     "dev": "next dev",
