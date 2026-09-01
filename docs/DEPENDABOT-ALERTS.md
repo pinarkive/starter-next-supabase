@@ -10,7 +10,7 @@
 | Lockfile committed | `package-lock.json` (lockfileVersion 3) |
 | `dependabot.yml` | present (npm + github-actions, weekly) |
 | `npm audit` on `main` | **0 vulnerabilities** |
-| Overrides on `main` | `nanoid@3.3.18`, `js-yaml@4.3.1`, `brace-expansion@1.1.18`, `postcss@8.5.26` |
+| Overrides on `main` | `nanoid@3.3.18`, `js-yaml@4.3.1`, `brace-expansion@1.1.18`, `postcss@8.5.26` (direct + override) |
 
 ## Installed vs advisory (evidence)
 
