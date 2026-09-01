@@ -19,14 +19,14 @@
     "sdk-ts": "npm:@pinarkive/pinarkive-sdk-ts@^3.1.0"
   },
   "devDependencies": {
-    "@types/node": "^22.13.10",
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^26.4.0",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.4",
-    "autoprefixer": "^10.5.4",
     "eslint": "^9.39.4",
     "eslint-config-next": "^16.3.4",
     "postcss": "8.5.26",
-    "tailwindcss": "^3.4.17",
+    "tailwindcss": "^4.3.3",
     "typescript": "^6.0.3"
   },
   "overrides": {

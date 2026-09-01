@@ -20,7 +20,9 @@ Teams that want a **Next.js** + **Vercel** path, App Router conventions, and roo
 
 ## Stack
 
-Next.js 15 · React 19 · TypeScript · Tailwind CSS · `@supabase/supabase-js` (optional) · **`sdk-ts`** → `@pinarkive/pinarkive-sdk-ts` (server-only)
+Next.js 16 · React 19 · TypeScript 6 · Tailwind CSS 4 · `@supabase/supabase-js` (optional) · **`sdk-ts`** → `@pinarkive/pinarkive-sdk-ts` (server-only)
+
+See [Tailwind CSS 4 migration and validation](./docs/TAILWIND-4-MIGRATION.md) for the before/after versions and clean-starter checks.
 
 ## Quick start
 
