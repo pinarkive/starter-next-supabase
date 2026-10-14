@@ -12,20 +12,20 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.115.0",
-    "next": "^16.3.4",
-    "react": "^19.2.8",
-    "react-dom": "^19.2.8",
+    "@supabase/supabase-js": "^2.117.3",
+    "next": "^16.4.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
     "sdk-ts": "npm:@pinarkive/pinarkive-sdk-ts@^3.1.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.3",
-    "@types/node": "^26.4.1",
-    "@types/react": "^19.2.18",
-    "@types/react-dom": "^19.2.7",
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
     "eslint": "^9.39.4",
-    "eslint-config-next": "^16.3.4",
-    "postcss": "8.5.28",
+    "eslint-config-next": "^16.4.0",
+    "postcss": "8.5.29",
     "tailwindcss": "^4.3.3",
     "typescript": "^6.0.3"
   },
@@ -33,6 +33,6 @@
     "nanoid": "3.3.18",
     "js-yaml": "4.3.1",
     "brace-expansion": "1.1.18",
-    "postcss": "8.5.28"
+    "postcss": "8.5.29"
   }
 }
